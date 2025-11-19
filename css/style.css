@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New';
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    margin: 20px;
+}
+
+h3,
+.h3,
+h2 {
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: black;
+}
